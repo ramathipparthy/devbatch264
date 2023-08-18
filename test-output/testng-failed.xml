@@ -5,7 +5,7 @@
     <classes>
       <class name="p1.Test1">
         <methods>
-          <include name="getTitle"/>
+          <include name="openUrl"/>
         </methods>
       </class> <!-- p1.Test1 -->
     </classes>

@@ -37,7 +37,7 @@ public void openUrl()
 	}
 	
 }
-/*@Test(priority=3)
+@Test(priority=3)
 public void getTitle() 
 {
 Reporter.log("site is opened");
@@ -53,5 +53,5 @@ Reporter.log("site is opened");
 	}
 	//driver.close();
 	sa.assertAll();
-}*/
+}
 }
